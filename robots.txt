@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wali-veer.github.io/sitemap.xml
